@@ -76,7 +76,8 @@ node .
 - [Website](https://Jaexploit.github.io)
 
 # Thanks to
--
+- Allah SWT
+- Ortuku
 - [Adiwajshing](https://github.com/adiwajshing) <br> 
 - [X-Zeera](https://github.com/xzeera-id) <br> 
 - [OpenAi](https://beta.openai.com/) <br> 
