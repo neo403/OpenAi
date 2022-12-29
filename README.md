@@ -48,7 +48,7 @@
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git yarn
-git clone https://github.com/Jaexploit/OpenAi
+git clone https://github.com/Jaexploit/botv5
 cd OpenAi
 yarn
 node .
